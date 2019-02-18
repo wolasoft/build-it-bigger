@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wolasoft.viewslibrary">
+
+    <application>
+        <activity
+            android:name=".JokeActivity"
+            android:label="@string/activity_joke_details_title"/>
+    </application>
+
+</manifest>
